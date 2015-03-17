@@ -3,3 +3,4 @@ Start button > in the search box, type programs and features > Enter > left side
 Restart computer.
 You are back with IE9.
 ma_currentfix changes
+rc5
