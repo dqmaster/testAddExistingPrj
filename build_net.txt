@@ -1,0 +1,55 @@
+testa 1.1.0-rc5
+dasfdsaf 
+adsfasf
+ 1 QuoteService
+2. update
+3 find the quoteservice reference.cs c
+4. copy to quoteserviceclient
+
+5. replace business.test.common.quoteservice.
+to business.admiralservices.cleintproxies
+
+6. configuration_name
+
+quoteserviceclient, refactor, extract interface
+
+iquoteserviceclienta.cs
+
+generate file
+copy to 
+iquoteserviceclient.cs
+
+delete iquoteclienta.cs
+
+
+
+1. merge code to be deployed to main branch from vnext
+
+2. queue a new build from consumer quote main 
+
+3. build on it share 
+
+4. log on to prod box
+ 
+5. local admin account @admiral password
+
+6. local admin 
+
+7. package on the share to server.
+   replace the
+
+d:inetpub\consumerquote web
+
+8. unzip everything config for each environment
+
+9. webconfig.
+
+10. restart iis
+
+11  kill and restart it. 
+
+12. build +
+
+
+
+3. create deployment package to server
