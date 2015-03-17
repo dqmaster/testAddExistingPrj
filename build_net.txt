@@ -1,4 +1,4 @@
-testa 1.1.0-rc2
+testa 1.1.0-rc3
  1 QuoteService
 2. update
 3 find the quoteservice reference.cs c
