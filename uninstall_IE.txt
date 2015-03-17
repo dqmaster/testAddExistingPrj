@@ -2,3 +2,4 @@ How to uninstall IE10 :
 Start button > in the search box, type programs and features > Enter > left side, click View Installed Updates > scroll down to find Windows Internet Explorer 10 > right click > click Uninstall.
 Restart computer.
 You are back with IE9.
+ma_currentfix changes
